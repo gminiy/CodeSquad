@@ -22,4 +22,5 @@
     >crorong
     >hello crorong
     ~~~
+    * [hello.lisp](https://github.com/gminiy/CodeSquad/blob/master/Step1/Step1_2/hello.lisp)
   * JavaScript 배열의 forEach 사용법에 대해서 예제를 포함해서 markdown형태로 정리한다.
